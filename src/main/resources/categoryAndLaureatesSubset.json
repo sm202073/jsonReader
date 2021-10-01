@@ -1,0 +1,38 @@
+{
+  "prizes": [
+
+    {
+      "year": "2020",
+      "category": "economics",
+      "laureates": [
+        {
+          "id": "995",
+          "firstname": "Paul",
+          "surname": "Milgrom",
+          "motivation": "\"for improvements to auction theory and inventions of new auction formats\"",
+          "share": "2"
+        },
+        {
+          "id": "996",
+          "firstname": "Robert",
+          "surname": "Wilson",
+          "motivation": "\"for improvements to auction theory and inventions of new auction formats\"",
+          "share": "2"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "category": "literature",
+      "laureates": [
+        {
+          "id": "993",
+          "firstname": "Louise",
+          "surname": "Gl\u00fcck",
+          "motivation": "\"for her unmistakable poetic voice that with austere beauty makes individual existence universal\"",
+          "share": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "prizes": [
+    {
+      "laureates": [
+        {
+          "id": "862",
+          "firstname": "Jules A.",
+          "surname": "Hoffmann",
+          "motivation": "\"for their discoveries concerning the activation of innate immunity\""
+        },
+        {
+          "id": "863",
+          "firstname": "Ralph M.",
+          "surname": "Steinman",
+          "motivation": "\"for his discovery of the dendritic cell and its role in adaptive immunity\""
+        }
+      ]
+    }
+  ]
+}

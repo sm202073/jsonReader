@@ -1,0 +1,18 @@
+{
+  "prizes": [
+    {
+      "laureates": [
+        {
+          "id": "913",
+          "firstname": "Kailash",
+          "surname": "Satyarthi"
+        },
+        {
+          "id": "914",
+          "firstname": "Malala",
+          "surname": "Yousafzai"
+        }
+      ]
+    }
+  ]
+}
